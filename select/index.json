@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "らくらく安楽死",
+  "base_artist": "ぺぽよ",
+  "createdAt": "2025-12-27T16:58:45.849303Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "らくらく安楽死",
+      "artist": "ぺぽよ",
+      "has_synced": false,
+      "path": "select/pl_01_らくらく安楽死_ぺぽよ.txt"
+    }
+  ]
+}
